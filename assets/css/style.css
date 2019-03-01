@@ -1,0 +1,1821 @@
+.margin {
+  width: 1149px;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid opacity;
+  display: block;
+}
+
+html, body {
+  font-family: Ebrima;
+  background-color: #e6eef2;
+}
+
+#header {
+  width: 99.888797%;
+  height: 75px;
+  border: 1px solid opacity;
+  font-family: Open Sans,sans-serif;
+  border-bottom: 1px solid #cfdee6;
+}
+
+#header .margin {
+  width: 1107px;
+  height: 73px;
+  padding: 0 22px;
+}
+
+#header .margin #logo {
+  float: left;
+  width: 82px;
+  height: 24px;
+  font-size: 23px;
+  font-weight: 550;
+  line-height: 1.3;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+#header .margin #logo a {
+  text-decoration: none;
+  color: #333;
+}
+
+#header .margin #line {
+  margin-top: -3px;
+  width: 50px;
+  height: 2px;
+  background-color: #FFD599;
+}
+
+#header .margin nav {
+  float: left;
+}
+
+#header .margin nav > ul > li {
+  float: left;
+  list-style: none;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 2px 16px;
+  line-height: 68px;
+  position: relative;
+}
+
+#header .margin nav > ul > li > a {
+  text-decoration: none;
+  font-size: 15px;
+  color: #e36e2b;
+}
+
+#header .margin nav > ul > li > ul > li > ul {
+  margin-top: -42px;
+  margin-left: 190.4374px;
+  position: absolute;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 2px 15px rgba(0, 0, 0, 0.15);
+  background: #fff;
+  color: #333;
+  list-style: none;
+  padding: 10px 0 10px 10px;
+  visibility: hidden;
+  opacity: 0;
+  transition: 1.5s ease;
+}
+
+#header .margin nav > ul > li > ul > li > ul > li > a {
+  text-decoration: none;
+  width: 180px;
+  background-color: white;
+  line-height: 24px;
+  font-size: 13px;
+  font-weight: 600;
+  color: #333;
+  display: block;
+  padding: 5px 0 0 5px;
+}
+
+#header .margin nav > ul > li > ul {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 2px 15px rgba(0, 0, 0, 0.15);
+  background: #fff;
+  color: #333;
+  list-style: none;
+  margin-left: -15.5px;
+  margin-top: 5px;
+  padding: 12px 0;
+  visibility: hidden;
+  position: absolute;
+  font-family: Open Sans,sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  opacity: 0;
+  transition: 1.5s ease;
+}
+
+#header .margin nav #shop:hover > ul {
+  display: block;
+  opacity: 2;
+  visibility: visible;
+}
+
+#header .margin nav .shop:hover > ul {
+  display: block;
+  visibility: visible;
+  opacity: 3;
+}
+
+#header .margin nav > ul > li > ul > li {
+  line-height: 20px;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.9;
+  color: #212529;
+  text-align: left;
+  width: 190px;
+  position: relative;
+}
+
+#header .margin nav > ul > li > ul > li > a {
+  text-decoration: none;
+  padding: 7px 20px;
+  font-size: 13px;
+  line-height: 15px;
+  font-weight: 600;
+  color: #333;
+  display: block;
+  width: 148px;
+  height: 18px;
+}
+
+#header .margin nav > ul > li > ul > li a:hover {
+  background-color: aqua;
+}
+
+#header .margin #btn {
+  width: 48px;
+  height: 70px;
+  border: 1px solid opacity;
+  float: right;
+}
+
+#header .margin button {
+  float: left;
+  border: none;
+  background-color: #E6EEF2;
+}
+
+#header .margin button a {
+  background-color: #E6EEF2;
+  text-decoration: none;
+  margin: 23px 0 0 6px;
+  color: green;
+}
+
+#header .margin nav i {
+  margin-left: 7px;
+  color: green;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+#header .margin nav > ul > li:hover {
+  background-color: #e8e8e8;
+}
+
+#header .margin nav .large_menu {
+  background: #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1), 0 2px 15px rgba(0, 0, 0, 0.15);
+  color: #333;
+  list-style: none;
+  margin: 0;
+  padding: 30px;
+  width: 1070px;
+  color: #333;
+  list-style: none;
+  position: absolute;
+  top: 103%;
+  left: -197px;
+  height: 320px;
+  display: block;
+  visibility: hidden;
+  opacity: 0;
+  transition: 1.5s ease;
+}
+
+#header .margin nav .large_menu li > ul > li > a:hover {
+  color: #090;
+}
+
+#header .margin nav .large_menu li a:hover {
+  color: #6633CE;
+}
+
+#header .margin nav .categories:hover .large_menu {
+  visibility: visible;
+  opacity: 2;
+}
+
+#header .margin nav .row {
+  display: block;
+  margin-right: -15px;
+  margin-left: -15px;
+  display: block;
+  border: 1px solid opacity;
+  float: left;
+  width: 1095px;
+  height: 343.15px;
+  margin-top: -10px;
+}
+
+#header .margin nav .col-2 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  display: block;
+  width: 14.67%;
+  height: 341px;
+  border: 1px solid opacity;
+  float: left;
+}
+
+#header .margin nav .col-4 {
+  position: relative;
+  width: 26.712%;
+  padding-right: 15px;
+  padding-left: 15px;
+  display: block;
+  height: 341px;
+  border: 1px solid opacity;
+  float: left;
+}
+
+#header .margin nav .large_menu_links {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+#header .margin nav .large_menu_links > li {
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Open Sans,sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+#header .margin nav .large_menu_links > li > a {
+  list-style: none;
+  color: #E36E2B;
+  text-decoration: none;
+  margin-top: 10px;
+  display: block;
+}
+
+#header .margin nav .large_menu_links > li > .large_menu_dropdown > li {
+  line-height: 1.77;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+#header .margin nav .large_menu_links > li > .large_menu_dropdown > li > a {
+  text-decoration: none;
+  color: #808080;
+}
+
+#LuxuryBeds {
+  width: 99.888797%;
+  height: 650px;
+  border: 1px solid opacity;
+  padding-top: 25px;
+  display: block;
+  padding-bottom: 100px;
+}
+
+#LuxuryBeds .margin .buttons {
+  display: block;
+  width: 1147px;
+  height: 25px;
+  border: 1px solid opacity;
+  text-align: center;
+}
+
+#LuxuryBeds .margin .buttons button {
+  border: none;
+  cursor: pointer;
+  background-color: #E6EEF2;
+}
+
+#LuxuryBeds .margin .buttons button .active {
+  background-color: #ffd599;
+  display: block;
+  width: 12px;
+  height: 12px;
+  margin: 5px;
+  border-radius: 50%;
+}
+
+#LuxuryBeds .margin .buttons button .off {
+  background-color: #C3D2D9;
+  display: block;
+  width: 12px;
+  height: 12px;
+  margin: 5px;
+  border-radius: 50%;
+}
+
+#FeaturedProducts {
+  margin-bottom: 100px;
+  display: block;
+  width: 99.888797%;
+  height: 495px;
+  border: 1px solid opacity;
+  font-family: Open Sans,sans-serif;
+}
+
+#FeaturedProducts .margin .name_block {
+  width: 1147px;
+  height: 50px;
+  border: 1px solid opacity;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+#FeaturedProducts .margin .name_block h2 {
+  font-family: Open Sans,sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: -.04em;
+  line-height: 1.2;
+  text-transform: none;
+  color: #333333;
+}
+
+#FeaturedProducts .margin .name_block #line {
+  width: 50px;
+  height: 2px;
+  background-color: #FFD599;
+  margin: 0 auto;
+}
+
+#FeaturedProducts .margin .block_mebels {
+  display: block;
+  width: 1104px;
+  height: 414px;
+  border: 1px solid opacity;
+  margin: -7px auto 0;
+  padding-left: 30px;
+}
+
+#FeaturedProducts .margin .block_mebels .product {
+  background-color: white;
+  width: 23%;
+  height: 392px;
+  border: 1px solid opacity;
+  float: left;
+  margin-right: 17px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+#FeaturedProducts .margin .block_mebels .product .sale {
+  width: 27px;
+  height: 14px;
+  background-color: #ff5959;
+  color: white;
+  position: absolute;
+  margin: -20px 0 0 20px;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px 18px;
+}
+
+#FeaturedProducts .margin .block_mebels .product .icons {
+  width: 28px;
+  height: 84px;
+  border: 1px solid opacity;
+  position: absolute;
+  margin-left: 225px;
+  visibility: hidden;
+  margin-top: -20px;
+}
+
+#FeaturedProducts .margin .block_mebels .product .add_cart {
+  width: 18.7%;
+  height: 37px;
+  margin-top: 353px;
+  position: absolute;
+  border: 1px solid opacity;
+  background-color: #b9e380;
+  visibility: hidden;
+}
+
+#FeaturedProducts .margin .block_mebels .product:hover .add_cart {
+  visibility: visible;
+}
+
+#FeaturedProducts .margin .block_mebels .product .add_cart:hover {
+  background-color: #343a40;
+}
+
+#FeaturedProducts .margin .block_mebels .product .add_cart:hover button {
+  color: white;
+  background-color: #343a40;
+}
+
+#FeaturedProducts .margin .block_mebels .product .add_cart button {
+  color: #ff4600;
+  font-family: Open Sans,sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 2;
+  background-color: #b9e380;
+}
+
+#FeaturedProducts .margin .block_mebels .product:hover .icons {
+  visibility: visible;
+}
+
+#FeaturedProducts .margin .block_mebels .product .icons button {
+  width: 26px;
+  height: 28px;
+  cursor: pointer;
+  display: block;
+  border-color: #000;
+}
+
+#FeaturedProducts .margin .block_mebels .product .icons button:hover {
+  background-color: #cfdee5;
+}
+
+#FeaturedProducts .margin .block_mebels .product .icons button:hover i {
+  color: #333;
+}
+
+#FeaturedProducts .margin .block_mebels .product .icons button i {
+  color: #DAE2E5;
+}
+
+#FeaturedProducts .margin .block_mebels .product .link_one, .link_two {
+  text-decoration: none;
+}
+
+#FeaturedProducts .margin .block_mebels .product .link_one {
+  color: #BDBDBD;
+  font-size: 13px;
+  line-height: 2.5;
+}
+
+#FeaturedProducts .margin .block_mebels .product .link_two {
+  color: #333333;
+  font-size: 15px;
+  font-weight: 550;
+}
+
+#FeaturedProducts .margin .block_mebels .product button {
+  padding: 5px 0 0 0;
+  border: none;
+  background-color: white;
+  font-size: 15px;
+}
+
+#FeaturedProducts .margin .block_mebels .product .first_block .yellow i {
+  color: #FFD333;
+}
+
+#FeaturedProducts .margin .block_mebels .product .first_block .gray i {
+  color: #DAE2E5;
+}
+
+#FeaturedProducts .margin .block_mebels .product .second_block .yellow i {
+  color: #FFD333;
+}
+
+#FeaturedProducts .margin .block_mebels .product .second_block .gray i {
+  color: #DAE2E5;
+}
+
+#FeaturedProducts .margin .block_mebels .product .the_third_block .yellow i {
+  color: #FFD333;
+}
+
+#FeaturedProducts .margin .block_mebels .product .the_third_block .gray i {
+  color: #DAE2E5;
+}
+
+#FeaturedProducts .margin .block_mebels .product .last_block .yellow i {
+  color: #FFD333;
+}
+
+#FeaturedProducts .margin .block_mebels .product .last_block .gray i {
+  color: #DAE2E5;
+}
+
+#FeaturedProducts .margin .block_mebels .product .number {
+  margin-top: 15px;
+  font-size: 15px;
+  font-weight: 700;
+  margin-top: 14px;
+  padding-bottom: 4px;
+  color: #333;
+  display: block;
+}
+
+#FeaturedProducts .margin .block_mebels .product .number .line_throught {
+  margin: -12px 0 0 120px;
+  color: #A6A6A6;
+}
+
+#FeaturedProducts .margin .block_mebels .left {
+  border: none;
+  background-color: #E6EEF2;
+  margin: 180px 0 0 -1100px;
+  float: left;
+  font-size: 30px;
+  padding-bottom: 8px;
+  width: 30px;
+  cursor: pointer;
+}
+
+#FeaturedProducts .margin .block_mebels .left i {
+  font-size: 20px;
+  color: #C8CFD4;
+  margin-left: -7px;
+}
+
+#FeaturedProducts .margin .block_mebels .right {
+  border: none;
+  background-color: #CFDEE5;
+  margin: 180px 0 0 -35px;
+  float: left;
+  font-size: 30px;
+  padding-bottom: 9px;
+  width: 30px;
+  cursor: pointer;
+}
+
+#FeaturedProducts .margin .block_mebels .right i {
+  font-size: 20px;
+  color: #505659;
+  margin-right: -7px;
+}
+
+#LatestCollections {
+  width: 99.888797%;
+  height: 765px;
+  border: 1px solid opacity;
+}
+
+#LatestCollections #margin {
+  width: 1149px;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid opacity;
+  display: block;
+}
+
+#LatestCollections #margin .name_block {
+  width: 1147px;
+  height: 50px;
+  border: 1px solid opacity;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+#LatestCollections #margin .name_block h2 {
+  font-family: Open Sans,sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: -.04em;
+  line-height: 1.2;
+  text-transform: none;
+  color: #333333;
+}
+
+#LatestCollections #margin .name_block #line {
+  width: 50px;
+  height: 2px;
+  background-color: #FFD599;
+  margin: 0 auto;
+}
+
+#LatestCollections #margin .space_left {
+  width: 475px;
+  height: 573px;
+  border: 1px solid opacity;
+  position: relative;
+  padding-right: 15px;
+  padding-left: 15px;
+  text-align: left;
+  float: left;
+}
+
+#LatestCollections #margin .space_left .info_space {
+  width: 400px;
+  height: 128px;
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  margin-left: 35px;
+  padding-left: 30px;
+  padding-top: 15px;
+  padding-bottom: 25px;
+  margin-top: 30px;
+}
+
+#LatestCollections #margin .space_left .info_space h2 {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -.03em;
+  margin-bottom: 4px;
+  font-family: Open Sans,sans-serif;
+  line-height: 1.5;
+  color: #333333;
+}
+
+#LatestCollections #margin .space_left .info_space p {
+  font-size: 15px;
+  line-height: 22px;
+  color: #8a9499;
+  margin-bottom: 20px;
+  font-family: Open Sans,sans-serif;
+  font-weight: 400;
+}
+
+#LatestCollections #margin .space_left .info_space button {
+  height: 35px;
+  width: 123px;
+  color: #333;
+  font-family: Open Sans,sans-serif;
+  font-size: 14.2px;
+  line-height: 1;
+  font-weight: 600;
+  background-color: #ffd599;
+  color: #333;
+  border: none;
+  border-radius: 1.5px;
+  text-align: center;
+}
+
+#LatestCollections #margin .space_left .info_space button:hover {
+  background-color: #343a40;
+  color: white;
+}
+
+#LatestCollections #margin .space_left .image_space {
+  width: 435px;
+  height: 370px;
+  border: 1px solid opacity;
+  background: url("../img/collection1.jpg") no-repeat center;
+  background-color: white;
+  cursor: pointer;
+}
+
+#LatestCollections #margin .space_right {
+  width: 640px;
+  height: 573px;
+  border: 1px solid opacity;
+  float: left;
+}
+
+#LatestCollections #margin .space_right .image_space {
+  width: 625px;
+  height: 370px;
+  border: 1px solid opacity;
+  background: url("../img/collection2.jpg") no-repeat center;
+  background-color: white;
+  cursor: pointer;
+}
+
+#LatestCollections #margin .space_right .info_space {
+  width: 400px;
+  height: 128px;
+  border-left: 1px solid rgba(0, 0, 0, 0.1);
+  margin-left: 35px;
+  padding-left: 30px;
+  padding-top: 15px;
+  padding-bottom: 25px;
+}
+
+#LatestCollections #margin .space_right .info_space h2 {
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -.03em;
+  margin-bottom: 4px;
+  font-family: Open Sans,sans-serif;
+  line-height: 1.5;
+  color: #333333;
+}
+
+#LatestCollections #margin .space_right .info_space p {
+  font-size: 15px;
+  line-height: 22px;
+  color: #8a9499;
+  margin-bottom: 20px;
+  font-family: Open Sans,sans-serif;
+  font-weight: 400;
+}
+
+#LatestCollections #margin .space_right .info_space button {
+  height: 35px;
+  width: 123px;
+  color: #333;
+  font-family: Open Sans,sans-serif;
+  font-size: 14.2px;
+  line-height: 1;
+  font-weight: 600;
+  background-color: #ffd599;
+  color: #333;
+  border: none;
+  border-radius: 1.5px;
+  text-align: center;
+}
+
+#LatestCollections #margin .space_right .info_space button:hover {
+  background-color: #343a40;
+  color: white;
+}
+
+#PopularCategories {
+  width: 99.888797%;
+  height: 680px;
+  border: 1px solid opacity;
+}
+
+#PopularCategories #margin {
+  width: 1149px;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid opacity;
+  display: block;
+}
+
+#PopularCategories #margin .name_block {
+  width: 1147px;
+  height: 50px;
+  border: 1px solid opacity;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+#PopularCategories #margin .name_block h2 {
+  font-family: Open Sans,sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: -.04em;
+  line-height: 1.2;
+  text-transform: none;
+  color: #333333;
+}
+
+#PopularCategories #margin .name_block #line {
+  width: 50px;
+  height: 2px;
+  background-color: #FFD599;
+  margin: 0 auto;
+}
+
+#PopularCategories #margin .cards {
+  width: 1135px;
+  height: 485px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+}
+
+#PopularCategories #margin .cards .col-1 {
+  width: 147px;
+  height: 196px;
+  border: 1px solid opacity;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  float: left;
+}
+
+#PopularCategories #margin .cards .col-1 div {
+  width: 141px;
+  height: 141px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+  background: url("../img/cards/category1.jpg") no-repeat;
+  background-size: 145px 139px;
+}
+
+#PopularCategories #margin .cards .col-1 h2 {
+  margin-top: 14px;
+  font-size: 15px;
+  line-height: 17px;
+  font-weight: 600;
+  color: #333333;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: -0.5px;
+}
+
+#PopularCategories #margin .cards .col-1:hover h2 {
+  color: #f26924;
+  cursor: pointer;
+}
+
+#PopularCategories #margin .cards .col-1 p {
+  font-size: 14px;
+  color: #999;
+  line-height: 15px;
+  margin-top: 6px;
+  font-family: Open Sans,sans-serif;
+}
+
+#PopularCategories #margin .cards .col-2 {
+  width: 147px;
+  height: 196px;
+  border: 1px solid opacity;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  float: left;
+}
+
+#PopularCategories #margin .cards .col-2 div {
+  width: 141px;
+  height: 141px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+  background: url("../img/cards/category2.jpg") no-repeat;
+  background-size: 145px 139px;
+}
+
+#PopularCategories #margin .cards .col-2 h2 {
+  margin-top: 14px;
+  font-size: 15px;
+  line-height: 17px;
+  font-weight: 600;
+  color: #333333;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: -0.5px;
+}
+
+#PopularCategories #margin .cards .col-2:hover h2 {
+  color: #f26924;
+  cursor: pointer;
+}
+
+#PopularCategories #margin .cards .col-2 p {
+  font-size: 14px;
+  color: #999;
+  line-height: 15px;
+  margin-top: 6px;
+  font-family: Open Sans,sans-serif;
+}
+
+#PopularCategories #margin .cards .col-3 {
+  width: 147px;
+  height: 196px;
+  border: 1px solid opacity;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  float: left;
+}
+
+#PopularCategories #margin .cards .col-3 div {
+  width: 141px;
+  height: 141px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+  background: url("../img/cards/category3.jpg") no-repeat;
+  background-size: 145px 139px;
+}
+
+#PopularCategories #margin .cards .col-3 h2 {
+  margin-top: 14px;
+  font-size: 15px;
+  line-height: 17px;
+  font-weight: 600;
+  color: #333333;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: -0.5px;
+}
+
+#PopularCategories #margin .cards .col-3:hover h2 {
+  color: #f26924;
+  cursor: pointer;
+}
+
+#PopularCategories #margin .cards .col-3 p {
+  font-size: 14px;
+  color: #999;
+  line-height: 15px;
+  margin-top: 6px;
+  font-family: Open Sans,sans-serif;
+}
+
+#PopularCategories #margin .cards .col-4 {
+  width: 147px;
+  height: 196px;
+  border: 1px solid opacity;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  float: left;
+}
+
+#PopularCategories #margin .cards .col-4 div {
+  width: 141px;
+  height: 141px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+  background: url("../img/cards/category4.jpg") no-repeat;
+  background-size: 145px 139px;
+}
+
+#PopularCategories #margin .cards .col-4 h2 {
+  margin-top: 14px;
+  font-size: 15px;
+  line-height: 17px;
+  font-weight: 600;
+  color: #333333;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: -0.5px;
+}
+
+#PopularCategories #margin .cards .col-4:hover h2 {
+  color: #f26924;
+  cursor: pointer;
+}
+
+#PopularCategories #margin .cards .col-4 p {
+  font-size: 14px;
+  color: #999;
+  line-height: 15px;
+  margin-top: 6px;
+  font-family: Open Sans,sans-serif;
+}
+
+#PopularCategories #margin .cards .col-5 {
+  width: 147px;
+  height: 196px;
+  border: 1px solid opacity;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  float: left;
+}
+
+#PopularCategories #margin .cards .col-5 div {
+  width: 141px;
+  height: 141px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+  background: url("../img/cards/category5.jpg") no-repeat;
+  background-size: 145px 139px;
+}
+
+#PopularCategories #margin .cards .col-5 h2 {
+  margin-top: 14px;
+  font-size: 15px;
+  line-height: 17px;
+  font-weight: 600;
+  color: #333333;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: -0.5px;
+}
+
+#PopularCategories #margin .cards .col-5:hover h2 {
+  color: #f26924;
+  cursor: pointer;
+}
+
+#PopularCategories #margin .cards .col-5 p {
+  font-size: 14px;
+  color: #999;
+  line-height: 15px;
+  margin-top: 6px;
+  font-family: Open Sans,sans-serif;
+}
+
+#PopularCategories #margin .cards .col-6 {
+  width: 147px;
+  height: 196px;
+  border: 1px solid opacity;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  float: left;
+}
+
+#PopularCategories #margin .cards .col-6 div {
+  width: 141px;
+  height: 141px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+  background: url("../img/cards/category6.jpg") no-repeat;
+  background-size: 145px 139px;
+}
+
+#PopularCategories #margin .cards .col-6 h2 {
+  margin-top: 14px;
+  font-size: 15px;
+  line-height: 17px;
+  font-weight: 600;
+  color: #333333;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: -0.5px;
+}
+
+#PopularCategories #margin .cards .col-6:hover h2 {
+  color: #f26924;
+  cursor: pointer;
+}
+
+#PopularCategories #margin .cards .col-6 p {
+  font-size: 14px;
+  color: #999;
+  line-height: 15px;
+  margin-top: 6px;
+  font-family: Open Sans,sans-serif;
+}
+
+#PopularCategories #margin .cards .col-7 {
+  width: 147px;
+  height: 196px;
+  border: 1px solid opacity;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  float: left;
+}
+
+#PopularCategories #margin .cards .col-7 div {
+  width: 141px;
+  height: 141px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+  background: url("../img/cards/category7.jpg") no-repeat;
+  background-size: 145px 139px;
+}
+
+#PopularCategories #margin .cards .col-7 h2 {
+  margin-top: 14px;
+  font-size: 15px;
+  line-height: 17px;
+  font-weight: 600;
+  color: #333333;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: -0.5px;
+}
+
+#PopularCategories #margin .cards .col-7:hover h2 {
+  color: #f26924;
+  cursor: pointer;
+}
+
+#PopularCategories #margin .cards .col-7 p {
+  font-size: 14px;
+  color: #999;
+  line-height: 15px;
+  margin-top: 6px;
+  font-family: Open Sans,sans-serif;
+}
+
+#PopularCategories #margin .cards .col-8 {
+  width: 147px;
+  height: 196px;
+  border: 1px solid opacity;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  float: left;
+}
+
+#PopularCategories #margin .cards .col-8 div {
+  width: 141px;
+  height: 141px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+  background: url("../img/cards/category8.jpg") no-repeat;
+  background-size: 145px 139px;
+}
+
+#PopularCategories #margin .cards .col-8 h2 {
+  margin-top: 14px;
+  font-size: 15px;
+  line-height: 17px;
+  font-weight: 600;
+  color: #333333;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: -0.5px;
+}
+
+#PopularCategories #margin .cards .col-8:hover h2 {
+  color: #f26924;
+  cursor: pointer;
+}
+
+#PopularCategories #margin .cards .col-8 p {
+  font-size: 14px;
+  color: #999;
+  line-height: 15px;
+  margin-top: 6px;
+  font-family: Open Sans,sans-serif;
+}
+
+#PopularCategories #margin .cards .col-9 {
+  width: 147px;
+  height: 196px;
+  border: 1px solid opacity;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  float: left;
+}
+
+#PopularCategories #margin .cards .col-9 div {
+  width: 141px;
+  height: 141px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+  background: url("../img/cards/category9.jpg") no-repeat;
+  background-size: 145px 139px;
+}
+
+#PopularCategories #margin .cards .col-9 h2 {
+  margin-top: 14px;
+  font-size: 15px;
+  line-height: 17px;
+  font-weight: 600;
+  color: #333333;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: -0.5px;
+}
+
+#PopularCategories #margin .cards .col-9:hover h2 {
+  color: #f26924;
+  cursor: pointer;
+}
+
+#PopularCategories #margin .cards .col-9 p {
+  font-size: 14px;
+  color: #999;
+  line-height: 15px;
+  margin-top: 6px;
+  font-family: Open Sans,sans-serif;
+}
+
+#PopularCategories #margin .cards .col-10 {
+  width: 147px;
+  height: 196px;
+  border: 1px solid opacity;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  float: left;
+}
+
+#PopularCategories #margin .cards .col-10 div {
+  width: 141px;
+  height: 141px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+  background: url("../img/cards/category10.jpg") no-repeat;
+  background-size: 145px 139px;
+}
+
+#PopularCategories #margin .cards .col-10 h2 {
+  margin-top: 14px;
+  font-size: 15px;
+  line-height: 17px;
+  font-weight: 600;
+  color: #333333;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: -0.5px;
+}
+
+#PopularCategories #margin .cards .col-10:hover h2 {
+  color: #f26924;
+  cursor: pointer;
+}
+
+#PopularCategories #margin .cards .col-10 p {
+  font-size: 14px;
+  color: #999;
+  line-height: 15px;
+  margin-top: 6px;
+  font-family: Open Sans,sans-serif;
+}
+
+#PopularCategories #margin .cards .col-11 {
+  width: 147px;
+  height: 196px;
+  border: 1px solid opacity;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  float: left;
+}
+
+#PopularCategories #margin .cards .col-11 div {
+  width: 141px;
+  height: 141px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+  background: url("../img/cards/category11.jpg") no-repeat;
+  background-size: 145px 139px;
+}
+
+#PopularCategories #margin .cards .col-11 h2 {
+  margin-top: 14px;
+  font-size: 15px;
+  line-height: 17px;
+  font-weight: 600;
+  color: #333333;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: -0.5px;
+}
+
+#PopularCategories #margin .cards .col-11:hover h2 {
+  color: #f26924;
+  cursor: pointer;
+}
+
+#PopularCategories #margin .cards .col-11 p {
+  font-size: 14px;
+  color: #999;
+  line-height: 15px;
+  margin-top: 6px;
+  font-family: Open Sans,sans-serif;
+}
+
+#PopularCategories #margin .cards .col-12 {
+  width: 147px;
+  height: 196px;
+  border: 1px solid opacity;
+  margin: 5px;
+  padding: 15px;
+  text-align: center;
+  background-color: white;
+  position: relative;
+  float: left;
+}
+
+#PopularCategories #margin .cards .col-12 div {
+  width: 141px;
+  height: 141px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+  background: url("../img/cards/category12.jpg") no-repeat;
+  background-size: 145px 139px;
+}
+
+#PopularCategories #margin .cards .col-12 h2 {
+  margin-top: 14px;
+  font-size: 15px;
+  line-height: 17px;
+  font-weight: 600;
+  color: #333333;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: -0.5px;
+}
+
+#PopularCategories #margin .cards .col-12:hover h2 {
+  color: #f26924;
+  cursor: pointer;
+}
+
+#PopularCategories #margin .cards .col-12 p {
+  font-size: 14px;
+  color: #999;
+  line-height: 15px;
+  margin-top: 6px;
+  font-family: Open Sans,sans-serif;
+}
+
+#LatestBlogPosts {
+  width: 99.888797%;
+  height: 680px;
+  border: 1px solid opacity;
+}
+
+#LatestBlogPosts #margin {
+  width: 1149px;
+  height: auto;
+  margin: 0 auto;
+  border: 1px solid opacity;
+  display: block;
+}
+
+#LatestBlogPosts #margin .name_block {
+  width: 1147px;
+  height: 50px;
+  border: 1px solid opacity;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+#LatestBlogPosts #margin .name_block h2 {
+  font-family: Open Sans,sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: -.04em;
+  line-height: 1.2;
+  text-transform: none;
+  color: #333333;
+}
+
+#LatestBlogPosts #margin .name_block #line {
+  width: 50px;
+  height: 2px;
+  background-color: #FFD599;
+  margin: 0 auto;
+}
+
+#LatestBlogPosts #margin .block_posts {
+  width: 1124px;
+  height: 485px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space1 {
+  width: 360px;
+  height: 470px;
+  border: 1px solid opacity;
+  float: left;
+  background-color: #fff;
+  margin: 0 6px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space2 {
+  width: 360px;
+  height: 470px;
+  border: 1px solid opacity;
+  float: left;
+  background-color: #fff;
+  margin: 0 6px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space3 {
+  width: 360px;
+  height: 470px;
+  border: 1px solid opacity;
+  float: left;
+  background-color: #fff;
+  margin: 0 6px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space1 .post_image {
+  width: 358px;
+  height: 243px;
+  border: 1px solid opacity;
+  background: url("../img/blogposts/post1.jpg") no-repeat center;
+  background-size: 358px 243px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space1 .post_info {
+  padding: 20px 25px 28px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space1 .post_info h5 {
+  font-size: 12px;
+  line-height: 14px;
+  margin-bottom: 8px;
+  color: #999;
+  font-family: Open Sans,sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space1 .post_info h2 {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 20px;
+  font-family: Open Sans,sans-serif;
+  color: #333333;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space1:hover h2 {
+  color: #f26929;
+  cursor: pointer;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space1 p {
+  margin-top: 11px;
+  font-size: 14px;
+  line-height: 22px;
+  color: #7e888c;
+  font-weight: 400;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: 0.5px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space1 button {
+  width: 100px;
+  height: 24px;
+  margin-top: 15px;
+  background-color: #ffd599;
+  color: #333;
+  font-size: 13px;
+  padding: 2px 5px;
+  text-align: center;
+  border: none;
+  font-weight: 550;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space1 button:hover {
+  background-color: #343a40;
+  color: white;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space2 .post_image {
+  width: 358px;
+  height: 243px;
+  border: 1px solid opacity;
+  background: url("../img/blogposts/post2.jpg") no-repeat center;
+  background-size: 358px 243px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space2 .post_info {
+  padding: 20px 25px 28px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space2 .post_info h5 {
+  font-size: 12px;
+  line-height: 14px;
+  margin-bottom: 8px;
+  color: #999;
+  font-family: Open Sans,sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space2 .post_info h2 {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 20px;
+  font-family: Open Sans,sans-serif;
+  color: #333333;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space2:hover h2 {
+  color: #f26929;
+  cursor: pointer;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space2 p {
+  margin-top: 11px;
+  font-size: 14px;
+  line-height: 22px;
+  color: #7e888c;
+  font-weight: 400;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: 0.5px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space2 button {
+  width: 100px;
+  height: 24px;
+  margin-top: 15px;
+  background-color: #ffd599;
+  color: #333;
+  font-size: 13px;
+  padding: 2px 5px;
+  text-align: center;
+  border: none;
+  font-weight: 550;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space2 button:hover {
+  background-color: #343a40;
+  color: white;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space3 .post_image {
+  width: 358px;
+  height: 243px;
+  border: 1px solid opacity;
+  background: url("../img/blogposts/post3.jpg") no-repeat center;
+  background-size: 358px 243px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space3 .post_info {
+  padding: 20px 25px 28px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space3 .post_info h5 {
+  font-size: 12px;
+  line-height: 14px;
+  margin-bottom: 8px;
+  color: #999;
+  font-family: Open Sans,sans-serif;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space3 .post_info h2 {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 20px;
+  font-family: Open Sans,sans-serif;
+  color: #333333;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space3:hover h2 {
+  color: #f26929;
+  cursor: pointer;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space3 p {
+  margin-top: 11px;
+  font-size: 14px;
+  line-height: 22px;
+  color: #7e888c;
+  font-weight: 400;
+  font-family: Open Sans,sans-serif;
+  letter-spacing: 0.5px;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space3 button {
+  width: 100px;
+  height: 24px;
+  margin-top: 15px;
+  background-color: #ffd599;
+  color: #333;
+  font-size: 13px;
+  padding: 2px 5px;
+  text-align: center;
+  border: none;
+  font-weight: 550;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#LatestBlogPosts #margin .block_posts .post_space3 button:hover {
+  background-color: #343a40;
+  color: white;
+}
+
+#LatestBlogPosts #margin .left {
+  border: none;
+  background-color: #E6EEF2;
+  margin: -273px 0 0 11px;
+  float: left;
+  font-size: 30px;
+  padding-bottom: 8px;
+  width: 30px;
+  cursor: pointer;
+}
+
+#LatestBlogPosts #margin .left i {
+  font-size: 20px;
+  color: #C8CFD4;
+  margin-left: -7px;
+}
+
+#LatestBlogPosts #margin .right {
+  border: none;
+  background-color: #CFDEE5;
+  margin: -273px 0 0 1110px;
+  float: left;
+  font-size: 30px;
+  padding-bottom: 9px;
+  width: 30px;
+  cursor: pointer;
+}
+
+#LatestBlogPosts #margin .right i {
+  font-size: 20px;
+  color: #505659;
+  margin-right: -7px;
+}
+
+#AboutUs {
+  width: 99.888797%;
+  height: 335px;
+  border: 1px solid opacity;
+  display: block;
+}
+
+#AboutUs #margin {
+  width: 1112px;
+  height: 283px;
+  margin-left: 96px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+  border-top: 1px solid #CFDEE6;
+  border-bottom: 1px solid #CFDEE6;
+  padding-top: 50px;
+}
+
+#AboutUs #margin .corner_place {
+  width: 357px;
+  height: 241px;
+  border: 1px solid opacity;
+  float: left;
+}
+
+#AboutUs #margin .internal {
+  width: 190px;
+  height: 241px;
+  border: 1px solid opacity;
+  float: left;
+}
+
+#AboutUs #margin h2 {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.2;
+  padding-bottom: 5px;
+  color: #333333;
+  font-family: inherit;
+  letter-spacing: -0.5px;
+}
+
+#AboutUs #margin #line {
+  margin-top: -3px;
+  width: 40px;
+  height: 2px;
+  background-color: #FFD599;
+  margin-bottom: 28px;
+}
+
+#AboutUs #margin p {
+  color: #676f73;
+  font-size: 15px;
+  line-height: 22px;
+  margin-bottom: 15px;
+  font-family: Open Sans,sans-serif;
+}
+
+#AboutUs #margin .internal li {
+  font-size: 14px;
+  padding: 4px 0;
+  color: #676F73;
+  font-family: Open Sans,sans-serif;
+  line-height: 1.3;
+  cursor: pointer;
+}
+
+#AboutUs #margin .internal li:hover {
+  color: #f26924;
+}
+
+#AboutUs #margin .corner_place li {
+  font-size: 14px;
+  padding: 4px 0;
+  color: #333333;
+  font-family: Open Sans,sans-serif;
+  line-height: 1.3;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+#AboutUs #margin .corner_place li:hover {
+  color: #f26924;
+}
+
+#AboutUs #margin form {
+  width: 350px;
+  height: 36px;
+  border: 1px solid opacity;
+  margin-bottom: 15px;
+}
+
+#AboutUs #margin form input {
+  width: 220px;
+  height: 25px;
+  background-color: #cfdee5;
+  border: none;
+  font-size: 14px;
+  line-height: 1.2;
+  padding: 5px 10px;
+}
+
+#AboutUs #margin input:focus {
+  background-color: white;
+  outline-width: 0;
+  box-shadow: 1px 1px 2px #333;
+  font-family: Open Sans,sans-serif;
+  color: #333;
+}
+
+#AboutUs #margin button {
+  background-color: #FFD599;
+  color: #333;
+  width: 105px;
+  height: 36px;
+  border: none;
+  cursor: pointer;
+  border-radius: 3.5px;
+  padding: 5px 7px;
+  font-size: 14px;
+  line-height: 1;
+  font-weight: 600;
+  text-align: center;
+  font-family: inherit;
+}
+
+#AboutUs #margin button:hover {
+  color: white;
+  background-color: #363d40;
+}
+
+#AboutUs #margin i {
+  width: 23px;
+  height: 28px;
+  margin-right: 2px;
+  font-size: 18px;
+  border-radius: 1.5px;
+  color: #676f73;
+  cursor: pointer;
+  text-align: center;
+  padding-top: 10px;
+}
+
+#AboutUs #margin i:hover {
+  background-color: #cfdee5;
+  transition: 1.7s;
+  transform: rotateY(360deg);
+  color: red;
+}
+
+#AboutUs #margin #footer_left {
+  margin-right: 10px;
+}
+
+#footer {
+  width: 99.888797%;
+  height: 62px;
+  border: 1px solid opacity;
+  display: block;
+}
+
+#footer #margin {
+  width: 1112px;
+  height: 60px;
+  border: 1px solid opacity;
+  margin: 0 auto;
+}
+
+#footer #margin .footer_left_block {
+  width: 127px;
+  height: 40px;
+  border: 1px solid opacity;
+  padding-right: 15px;
+  font-family: Open Sans,sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333333;
+  padding-top: 18px;
+  float: left;
+}
+
+#footer #margin .footer_left_block a {
+  text-decoration: none;
+  color: #676f73;
+}
+
+#footer #margin .footer_left_block a:hover {
+  color: #f28955;
+}
+
+#footer #margin .footer_right_block {
+  width: 276px;
+  height: 58px;
+  border: 1px solid opacity;
+  float: right;
+  background: url("../img/payment.jpg") no-repeat center;
+  background-size: 250px 25px;
+  padding-right: 15px;
+  padding-left: 15px;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=style.css.map */
